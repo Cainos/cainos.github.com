@@ -1,4 +1,4 @@
-const cacheName = "Cainos-Interactive Pixel Water-0.1";
+const cacheName = "Cainos-Customizable Pixel Character-0.1";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js.unityweb",
