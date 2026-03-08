@@ -1,4 +1,4 @@
-const cacheName = "Cainos-Pixel Art Top Down - Village-1.0";
+const cacheName = "Cainos-Pixel Art Top Down - Village-1.0.1";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js.unityweb",
